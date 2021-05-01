@@ -8,6 +8,10 @@ Develop a **persistent application** that consists of a front-end component.
 Set up a **CI/CD pipeline** to **BUILD, BAKE and DEPLOY** your application to a container platform using **GitOps methodologies** and approaches (fully automated deployment).  
 Include **scanning of code**, **container images** and **production environments** for best practices and security purposes in your automated process.
 
+## Demonstration
+
+https://user-images.githubusercontent.com/34750736/116783216-6b26a880-aa85-11eb-9970-13e97c72297b.mov
+
 ## Development
 
 This project is of a two-part project.
